@@ -38,15 +38,20 @@ It helps users efficiently manage daily tasks with features like filtering, sear
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+### Main Dashboard
+![Main UI](main-ui.png)
 
-Example:
+### Completed Task
+![Completed Task](completed-task.png)
 
-* Main UI
-* Dark Mode
-* Completed Tasks
-* Delete Modal
-* Mobile View
+### Dark Mode
+![Dark Mode](dark-mode.png)
+
+### Delete Confirmation
+![Delete Modal](delete-modal.png)
+
+### Mobile View
+![Mobile View](mobile-view.png)
 
 ---
 
